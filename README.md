@@ -1,6 +1,8 @@
 # Detect Blurred/Dark/Good Images
 Detecting whether the image is Good to look or Blurred or Darken. 
 
+Below are the output images from detect_blur_dark.py
+
 ## Blurred and Darken image
 ![](BlurDark.png)
 
